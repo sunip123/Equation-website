@@ -601,9 +601,9 @@ p {
     }
 
     .hero h1 {
-        font-size: 3.5em;
+        font-size: 2.5em;
         color: #fff;
-        font-weight: 700;
+        font-weight: 400;
         width: 830px;
         margin: 0;
         padding: 0;
@@ -1246,7 +1246,7 @@ p {
 ======================================================*/
 
     #comp-offer {
-        padding: 100px 0;
+        padding: 10px 0;
     }
 
     .desc-comp-offer h2,
@@ -1472,9 +1472,13 @@ p {
     #service-h {
         padding: 120px 0 50px;
     }
+    
+    #service-h-new {
+         padding: 10px 0 50px;
+    }
 
     .service-h-desc {
-        padding: 50px 10px 90px 60px;
+        padding: 1px 10px 90px 60px;
     }
 
     .service-h-desc>h6 {
@@ -1530,10 +1534,10 @@ p {
 
     .service-h-tab-1 .nav-tabs-1>a {
         border-radius: 0;
-        width: 176px;
+        width: 313px;
         text-align: center;
-        height: 55px;
-        line-height: 40px;
+        height: 49px;
+        line-height: 35px;
         border: 1px solid #ddd;
     }
 
@@ -1544,7 +1548,7 @@ p {
     }
 
     .service-h-tab-1 .tab-content-1 .tab-pane-1{
-        padding: 20px 20px 0px 10px;
+        padding: 0px 20px 0px 10px;
     }
 
     @media (min-width: 768px) and (max-width: 1199px) {
@@ -1618,7 +1622,7 @@ p {
         }
 
         .service-h-desc {
-            padding: 50px 10px 90px 10px;
+            padding: 1px 10px 90px 10px;
         }
     }
 
