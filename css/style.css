@@ -2863,3 +2863,12 @@ p {
             color: #717171;
         }
     }
+/*====================================================
+                   Border - Table
+======================================================*/
+.table tbody tr td, .table tbody tr th {
+    border: none;
+}     
+.table th, .table td {
+    border: 0px !important;
+}
