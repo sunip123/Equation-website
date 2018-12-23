@@ -871,9 +871,10 @@ header .topmenu .top-data li a.log-top:hover {
 .heading-border-light-off{
     width: 311px;
     height: 5px;
-    background-color: #fff;
+    background-color:#2196f3;
     margin: 0 0 20px 0;
 }
+
 .heading-border-light-sm {
     width: 352px;
     height: 5px;
