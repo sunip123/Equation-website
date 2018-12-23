@@ -834,14 +834,28 @@ header .topmenu .top-data li a.log-top:hover {
 }
 
 .title-bar .heading-border {
-    width: 60px;
+    width: 537px;
     height: 10px;
     background-color: #2196f3;
     margin: 0 auto 20px auto;
 }
 
 .heading-border-light {
-    width: 30px;
+    width: 498px;
+    height: 5px;
+    background-color: #2196f3;
+    margin: 0 0 20px 0;
+}
+
+.heading-border-light-med {
+    width: 239px;
+    height: 5px;
+    background-color: #2196f3;
+    margin: 0 0 20px 0;
+}
+
+.heading-border-light-sm {
+    width: 352px;
     height: 5px;
     background-color: #2196f3;
     margin: 0 0 20px 0;
