@@ -338,3 +338,10 @@ License URL: https://creativecommons.org/licenses/by/4.0/
 		$("#preloader").delay(600).fadeOut();
 	});
   })(jQuery);
+  // ====================================================
+                    // Show more
+// ====================================================
+function showhide(id) {
+    var e = document.getElementById(id);
+    e.style.display = (e.style.display === 'block') ? 'none' : 'block';
+}
