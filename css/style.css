@@ -868,6 +868,21 @@ header .topmenu .top-data li a.log-top:hover {
     margin: 0 0 20px 0;
 }
 
+.heading-border-light-new{
+    width: 217px;
+    height: 5px;
+    background-color: #2196f3;
+    margin: 0 0 20px 0;
+}
+
+.heading-border-light-large{
+    width: 552px;
+    height: 5px;
+    background-color: #2196f3;
+    margin: 0 0 20px 0;
+}
+
+
 .heading-border-light-off{
     width: 311px;
     height: 5px;
