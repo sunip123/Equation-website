@@ -868,6 +868,20 @@ header .topmenu .top-data li a.log-top:hover {
     margin: 0 0 20px 0;
 }
 
+.heading-border-light-col-white{
+    width: 273px;
+    height: 5px;
+    background-color: #f8f9fa;
+    margin: 0 0 20px 0;
+}
+
+.heading-border-light-col-lat {
+    width: 254px;
+    height: 5px;
+    background-color: #2196f3;
+    margin: 0 0 20px 0;
+}
+
 .heading-border-light-we{
     width: 198px;
     height: 5px;
@@ -877,6 +891,13 @@ header .topmenu .top-data li a.log-top:hover {
 
 .heading-border-light-new{
     width: 217px;
+    height: 5px;
+    background-color: #2196f3;
+    margin: 0 0 20px 0;
+}
+
+.heading-border-light-small-new{
+    width:145px;
     height: 5px;
     background-color: #2196f3;
     margin: 0 0 20px 0;
