@@ -587,7 +587,7 @@ header .topmenu .top-data li a.log-top:hover {
     left: 50%;
     background: rgba(0, 0, 0, 0.7);
     border: 5px solid #fff;
-    padding: 40px;
+    padding: 26px;
     z-index: 3;
     color: #c0c0c0;
     text-align: center;
@@ -604,7 +604,7 @@ header .topmenu .top-data li a.log-top:hover {
     font-size: 2.5em;
     color: #fff;
     font-weight: 400;
-    width: 830px;
+    width: 430px;
     margin: 0;
     padding: 0;
     opacity: 1;
