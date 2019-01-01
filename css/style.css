@@ -840,6 +840,13 @@ header .topmenu .top-data li a.log-top:hover {
     margin: 0 auto 20px auto;
 }
 
+.title-bar .heading-border-large {
+    width: 811px;
+    height: 10px;
+    background-color: #2196f3;
+    margin: 0 auto 20px auto;
+}
+
 .heading-border-light {
     width: 498px;
     height: 5px;
