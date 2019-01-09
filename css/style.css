@@ -826,11 +826,22 @@ header .topmenu .top-data li a.log-top:hover {
     padding: 100px 0;
 }
 
+.title-bar-home-page {
+    padding: 21px  0;
+}
+
 .title-bar h1 {
     color: #41464b;
     text-align: center;
     font-weight: 700;
     margin: 20px auto 10px auto;
+}
+
+.title-bar .heading-border-test {
+    width: 607px;
+    height: 10px;
+    background-color: #2196f3;
+    margin: 0 auto 20px auto;
 }
 
 .title-bar .heading-border {
@@ -851,6 +862,27 @@ header .topmenu .top-data li a.log-top:hover {
     width: 498px;
     height: 5px;
     background-color: #2196f3;
+    margin: 0 0 20px 0;
+}
+
+.heading-border-light-home-page-link {
+    width: 498px;
+    height: 5px;
+    background-color: #fff;
+    margin: 0 auto 20px auto;
+}
+
+.heading-border-light-what-we-offer {
+    width: 207px;
+    height: 5px;
+    background-color: #2196f3;
+    margin: 0 0 20px 0;
+}
+
+.heading-border-light-we-do {
+    width: 183px;
+    height: 5px;
+    background-color: #fff;
     margin: 0 0 20px 0;
 }
 
@@ -1472,10 +1504,14 @@ input[type=password] {
 /*====================================================
                       WHAT WE DO
 ======================================================*/
-
 .what-we-do {
-    padding: 110px 0;
+    padding: 6px 0;
 }
+
+.what-we-do-test {
+    padding: 40px 0;
+}
+
 
 .what-we-do h3 {
     padding-top: 20px;
@@ -1596,8 +1632,6 @@ input[type=password] {
     box-shadow: 3px 3px 8px 1px #505050;
     border: 1px solid #2196f3;
 }
-
-
 
 .service-h-tab {
     position: relative;
@@ -1928,9 +1962,6 @@ input[type=password] {
     text-transform: none;
 }
 
-
-
-
 /*Link link*/
 
 .footer-s1 .footer .link-list {
@@ -1962,8 +1993,6 @@ input[type=password] {
     color: #555;
     display: block;
 }
-
-
 
 /*Thumb list*/
 
@@ -2013,8 +2042,6 @@ address.address-details-f a {
     float: left;
     margin: 10px;
 }
-
-
 
 /*footer bottom*/
 
@@ -2086,7 +2113,7 @@ address.address-details-f a {
 
 
 /*==========================================
-                                TIMELINE-1
+              TIMELINE-1
 ============================================*/
 #timeline-1 {
     overflow: hidden;
@@ -2298,7 +2325,7 @@ address.address-details-f a {
 }
 
 /*==========================================
-                                TIMELINE-2
+            TIMELINE-2
 ============================================*/
 #timeline-2 {
     position: relative;
@@ -2476,7 +2503,7 @@ address.address-details-f a {
 }
 
 /*==========================================
-                                TIMELINE-3
+            TIMELINE-3
 ============================================*/
 #timeline-3 {
     position: relative;
@@ -2620,7 +2647,7 @@ address.address-details-f a {
 }
 
 /*==========================================
-                                TIMELINE-4
+            TIMELINE-4
 ============================================*/
 #timeline-4 {
     position: relative;
@@ -2854,8 +2881,6 @@ address.address-details-f a {
 .testimonial-author p strong {
     display: block;
 }
-
-
 /*====================================================
                    TESTIMONIALS-P2
 ======================================================*/
@@ -2867,7 +2892,6 @@ address.address-details-f a {
     margin-top: 100px;
     border-bottom: 5px solid #2196F3;
 }
-
 /*====================================================
                    CONTACT-P1
 ======================================================*/
@@ -2895,8 +2919,6 @@ address.address-details-f a {
 /*====================================================
                    CONTACT-P2
 ======================================================*/
-
-
 #contact-p2 .sub-but {
     margin: 0;
     text-align: center;
@@ -2916,7 +2938,6 @@ address.address-details-f a {
     border-radius: 0;
     color: #717171;
 }
-
 
 .map-responsive{
     margin-top: 70px;
@@ -2947,7 +2968,6 @@ address.address-details-f a {
         color: #717171;
     }
 }
-
 /*====================================================
                    Border - Table
 ======================================================*/
@@ -2957,7 +2977,6 @@ address.address-details-f a {
 .table th, .table td {
     border: 0px !important;
 }
-
 /*===================================================
             margin - tab
 ===================================================== */
